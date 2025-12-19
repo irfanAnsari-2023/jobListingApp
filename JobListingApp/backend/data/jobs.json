@@ -1,0 +1,438 @@
+[
+  {
+    "Job ID (Numeric)": "4106589701",
+    "title": "System Engineer",
+    "company": "SystematizeHA",
+    "location": "Bengaluru, Karnataka, India",
+    "job_link": "https://in.linkedin.com/jobs/view/system-engineer-at-systematizeha-4106589701?position=6&pageNum=7&refId=1XkVSt4a3%2F8tuM%2BWSVMjyA%3D%3D&trackingId=6MTnUzAfNhaaRLj%2F7WmqSQ%3D%3D",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://in.linkedin.com/company/systematizeha",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQEwuLkARUZIdQ/company-logo_100_100/company-logo_100_100/0/1718879848585?e=2147483647&v=beta&t=vfwhfDDInlklAKbfd7DdQuvb7IxDGwwLcUpoqqXxrJ4",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:16:54.134Z"
+    },
+    "min_exp": 6,
+    "max_exp": 8,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4106588777",
+    "title": "PLSQL Developer (Flexcube)",
+    "company": "Oracle",
+    "location": "Pune, Maharashtra, India",
+    "job_link": "https://in.linkedin.com/jobs/view/plsql-developer-flexcube-at-oracle-4106588777?position=4&pageNum=30&refId=9KOrBlhNZhXzwIJDJ5jpAQ%3D%3D&trackingId=5YxdzXLf26Z%2BHjJ%2BW7j2ow%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://www.linkedin.com/company/oracle",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:12:41.467Z"
+    },
+    "min_exp": 5,
+    "max_exp": 10,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4107523236",
+    "title": "Senior Data Analyst",
+    "company": "KPMG",
+    "location": "New Delhi, Delhi, India",
+    "job_link": "https://in.linkedin.com/jobs/view/senior-data-analyst-at-kpmg-4107523236?position=2&pageNum=2&refId=jKa1b3vPw9EG7nzi8VGkXg%3D%3D&trackingId=CCVpvDkcNxwa25Jt5B2gFg%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://ca.linkedin.com/company/kpmg",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQFrqkKAlHCfyA/company-logo_100_100/company-logo_100_100/0/1688581212079/kpmg_logo?e=2147483647&v=beta&t=ShjSyukX6ipDEBnI5JKchLEi7a6-i_Kjycpw3c2MvsU",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:11:40.154Z"
+    },
+    "min_exp": 6,
+    "max_exp": 10,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4108105284",
+    "title": "Information Technology Business Analyst",
+    "company": "Electronikmedia (EM)",
+    "location": "Kochi, Kerala, India",
+    "job_link": "https://in.linkedin.com/jobs/view/information-technology-business-analyst-at-electronikmedia-em-4108105284?position=10&pageNum=45&refId=jkexltN1uX6r1%2BgnvILy0A%3D%3D&trackingId=E4A3i3kyux%2Fo7XjNtnAXuA%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://in.linkedin.com/company/electronikmedia",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQHRZW7tg2HLgQ/company-logo_100_100/company-logo_100_100/0/1731406091722/electronikmedia_logo?e=2147483647&v=beta&t=gNAr4G0tHfK7OEKt4MjH85bZwsQai2lM9NZaKRU4_Ig",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:08:42.069Z"
+    },
+    "min_exp": 3,
+    "max_exp": 5,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4106593331",
+    "title": "Wordpress Developer",
+    "company": "Key Carrier Management Service Pvt. Ltd.",
+    "location": "Ahmedabad, Gujarat, India",
+    "job_link": "https://in.linkedin.com/jobs/view/wordpress-developer-at-key-carrier-management-service-pvt-ltd-4106593331?position=8&pageNum=82&refId=s%2BfG%2FkDpfJunRHV7e2p8Zg%3D%3D&trackingId=MGlO76Wa90G7slM7EviMFg%3D%3D",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://www.linkedin.com/company/key-cms",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFNtKCXf8YbuA/company-logo_100_100/company-logo_100_100/0/1667977088988/key_cms_logo?e=2147483647&v=beta&t=unPs9pzPsXMdQ0ULMxekK7wPinD3YbVnm-gRAxr8oHU",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:08:34.622Z"
+    },
+    "min_exp": 2,
+    "max_exp": 4,
+    "country": "India"
+  },
+  {
+    "Job ID (Numeric)": "4108101598",
+    "title": "Full Stack Developer",
+    "company": "Geval6 Inc",
+    "location": "Pune, Maharashtra, India",
+    "job_link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-geval6-inc-4108101598?position=2&pageNum=35&refId=HN%2BX33pUjBmj5pxC%2BzaR3Q%3D%3D&trackingId=uf%2BWpKjQtOB0km6iqZL2MA%3D%3D",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://www.linkedin.com/company/geval-6-inc",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C560BAQGZ4HzgqQx_Tg/company-logo_100_100/company-logo_100_100/0/1631327628033?e=2147483647&v=beta&t=VWLcrMmUFjlpm1VGBce3cngZUayvYItWrchkNgvq6N4",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:07:42.188Z"
+    },
+    "min_exp": 3,
+    "max_exp": 5,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4108102439",
+    "title": "Network Engineer",
+    "company": "Sonata Software",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_link": "https://in.linkedin.com/jobs/view/network-engineer-at-sonata-software-4108102439?position=9&pageNum=2&refId=y2nkDmMtA%2FcIHTOBSgOeUg%3D%3D&trackingId=KP%2FZIzrCis0yhteQa1k5Qw%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://in.linkedin.com/company/sonata-software",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C560BAQHHd1lirm-LdQ/company-logo_100_100/company-logo_100_100/0/1630564371387/sonata_software_logo?e=2147483647&v=beta&t=1ekITT-FkaSRO7p6O6xPL_JOqY-_-ysEhD_04if-NMY",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:07:13.368Z"
+    },
+    "min_exp": 3,
+    "max_exp": 5,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4108102409",
+    "title": "Infrastructure Validation Engineer",
+    "company": "Lakarya",
+    "location": "India",
+    "job_link": "https://in.linkedin.com/jobs/view/infrastructure-validation-engineer-at-lakarya-4108102409?position=3&pageNum=32&refId=0ffaQ7XzIj%2FBcvzXzwUtfA%3D%3D&trackingId=9B0xw6yd%2FNGquR17Y8zssg%3D%3D",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://www.linkedin.com/company/lakarya",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C560BAQGViaEhtHG6aA/company-logo_100_100/company-logo_100_100/0/1650514168617/lakarya_logo?e=2147483647&v=beta&t=YYq3grYvVF5KxBdFP5ECqoBbMWBpJnV7IZa8mVgvWLM",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:04:21.761Z"
+    },
+    "min_exp": 5,
+    "max_exp": 7,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4108106015",
+    "title": "Information Technology Marketing Manager",
+    "company": "DevRabbit IT Solutions",
+    "location": "Hyderabad, Telangana, India",
+    "job_link": "https://in.linkedin.com/jobs/view/information-technology-marketing-manager-at-devrabbit-it-solutions-4108106015?position=3&pageNum=87&refId=ACWnsRnSfv2GWHEIUgLeIg%3D%3D&trackingId=WXuLMQFDiQr8b7YyMvoCow%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://www.linkedin.com/company/devrabbit-it-solutions",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQFGm1_zEB-aig/company-logo_100_100/company-logo_100_100/0/1726745434705/devrabbit_it_solutions_logo?e=2147483647&v=beta&t=qXpuVk6WPOr5mqJvwVRfOjJ5WZYH9agNF8n4sn0ZJFs",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:04:05.058Z"
+    },
+    "min_exp": 5,
+    "max_exp": 10,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "32318505",
+    "title": "Senior Business Analyst",
+    "company": "Company name confidential",
+    "location": "Ahmedabad, Bengaluru",
+    "job_link": "https://www.foundit.in/job/32318505",
+    "employment_type": "Permanent Job",
+    "experience": "4-9 Years",
+    "source": "foundit",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:02:50.683Z"
+    },
+    "companyImageUrl": "https://media.foundit.in/trex/search/public/images/companyLogoConfidential.png",
+    "min_exp": 4,
+    "max_exp": 9,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4106591549",
+    "title": "Network Engineer",
+    "company": "PURVIEW",
+    "location": "Bengaluru, Karnataka, India",
+    "job_link": "https://in.linkedin.com/jobs/view/network-engineer-at-purview-4106591549?position=3&pageNum=2&refId=EBXA4I0zoSQrKApXF%2Bixug%3D%3D&trackingId=NiN26ZWMzKzDBMRxAHytFg%3D%3D",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://uk.linkedin.com/company/purviewservices",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGE4x6L_tnzxQ/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630543187558/purviewservices_logo?e=2147483647&v=beta&t=Ir5AbF9kOHfoZAqT4Y58OAazmKfUyR5YBJqJ8Bz8lUc",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:02:49.019Z"
+    },
+    "min_exp": 0,
+    "max_exp": 2,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4108105296",
+    "title": "Business Analyst",
+    "company": "TalenTown Recruitment Agency - IT",
+    "location": "Istanbul, Türkiye",
+    "job_link": "https://tr.linkedin.com/jobs/view/business-analyst-at-talentown-recruitment-agency-it-4108105296?position=6&pageNum=57&refId=kAOuFX4nIa%2Fan3a4dr2DLQ%3D%3D&trackingId=MvlXfdkAh7%2BDrmd5Pv5mCg%3D%3D",
+    "seniority_level": "Associate",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "2-5 years",
+    "company_url": "https://tr.linkedin.com/company/talentownhr-itconsultancy",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG1jNX_DFAznA/company-logo_100_100/company-logo_100_100/0/1686756043941/talentownhr_itconsultancy_logo?e=2147483647&v=beta&t=DJtiwFePS3BAUWKMzkQg_rrF1FFzvtRtZFwlb-qbM7I",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:02:24.528Z"
+    },
+    "min_exp": 2,
+    "max_exp": 5,
+    "country": ""
+  },
+  {
+    "Job ID (Numeric)": "4108394281",
+    "title": "SAP FICO FICA Consultant",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "job_link": "https://in.linkedin.com/jobs/view/sap-fico-fica-consultant-at-deloitte-4108394281?position=6&pageNum=0&refId=wtoMPg3L7gUbjD5k3dGpkw%3D%3D&trackingId=7vKCNz9xRQppD0YO6ewdqQ%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://www.linkedin.com/company/deloitte",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:59:39.674Z"
+    },
+    "min_exp": 12,
+    "max_exp": 14,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4106589608",
+    "title": "Automation Engineer",
+    "company": "iBase-t",
+    "location": "Ahmedabad, Gujarat, India",
+    "job_link": "https://in.linkedin.com/jobs/view/automation-engineer-at-ibase-t-4106589608?position=5&pageNum=15&refId=d%2FgfF%2FhIm8Z%2FmgTvID21Rw%3D%3D&trackingId=TPRdvuI70HuXWgg765WZbg%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://www.linkedin.com/company/ibaset",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQEdDb5Tbic3mg/company-logo_100_100/company-logo_100_100/0/1684033690464/ibaset_logo?e=2147483647&v=beta&t=Ir-SMxaOVuvQXF8aaiNEWKv5Vs6uygqe25LCz3YMsbI",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:58:16.974Z"
+    },
+    "min_exp": 2,
+    "max_exp": 4,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4106591415",
+    "title": "Associate-CyberARK PAM & PIM",
+    "company": "Kyndryl India",
+    "location": "Noida, Uttar Pradesh, India",
+    "job_link": "https://in.linkedin.com/jobs/view/associate-cyberark-pam-pim-at-kyndryl-india-4106591415?position=7&pageNum=2&refId=XlMvP6moyyTZ31nMSO1U6w%3D%3D&trackingId=VFO25B6TikmJNv1bhSzknA%3D%3D",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://in.linkedin.com/company/kyndryl-india",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGWCh-69Ran9Q/company-logo_100_100/company-logo_100_100/0/1639145885790?e=2147483647&v=beta&t=KuUT1PksGXChzkSHL-ghsrqbOZwYPyj0lqAGVFu7Vx0",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:58:12.265Z"
+    },
+    "min_exp": 1,
+    "max_exp": 3,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4106588665",
+    "title": "Senior Agent-CyberARK PAM & PIM",
+    "company": "Kyndryl India",
+    "location": "Noida, Uttar Pradesh, India",
+    "job_link": "https://in.linkedin.com/jobs/view/senior-agent-cyberark-pam-pim-at-kyndryl-india-4106588665?position=6&pageNum=2&refId=K3g9mOeMSQGe4BmHIG1a4w%3D%3D&trackingId=q4CZVrR6XKsRNi1ATe7S4g%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://in.linkedin.com/company/kyndryl-india",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGWCh-69Ran9Q/company-logo_100_100/company-logo_100_100/0/1639145885790?e=2147483647&v=beta&t=KuUT1PksGXChzkSHL-ghsrqbOZwYPyj0lqAGVFu7Vx0",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:58:02.768Z"
+    },
+    "min_exp": 1,
+    "max_exp": 2,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4106594147",
+    "title": "Senior Agent-CyberARK PAM & PIM",
+    "company": "Kyndryl India",
+    "location": "Noida, Uttar Pradesh, India",
+    "job_link": "https://in.linkedin.com/jobs/view/senior-agent-cyberark-pam-pim-at-kyndryl-india-4106594147?position=5&pageNum=2&refId=K3g9mOeMSQGe4BmHIG1a4w%3D%3D&trackingId=KZkKNIzMtrfHBeguSbtMdQ%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://in.linkedin.com/company/kyndryl-india",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGWCh-69Ran9Q/company-logo_100_100/company-logo_100_100/0/1639145885790?e=2147483647&v=beta&t=KuUT1PksGXChzkSHL-ghsrqbOZwYPyj0lqAGVFu7Vx0",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:58:00.734Z"
+    },
+    "min_exp": 1,
+    "max_exp": 2,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4106593134",
+    "title": "Technical and Security System - Web Proxy Skyhigh L2 Specialist",
+    "company": "Kyndryl India",
+    "location": "Sadar, Uttar Pradesh, India",
+    "job_link": "https://in.linkedin.com/jobs/view/technical-and-security-system-web-proxy-skyhigh-l2-specialist-at-kyndryl-india-4106593134?position=2&pageNum=2&refId=K3g9mOeMSQGe4BmHIG1a4w%3D%3D&trackingId=1nNWJYYbDO%2FKZCkds9oKuQ%3D%3D",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://in.linkedin.com/company/kyndryl-india",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGWCh-69Ran9Q/company-logo_100_100/company-logo_100_100/0/1639145885790?e=2147483647&v=beta&t=KuUT1PksGXChzkSHL-ghsrqbOZwYPyj0lqAGVFu7Vx0",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:57:52.975Z"
+    },
+    "min_exp": 3,
+    "max_exp": 5,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4107798988",
+    "title": "Full Stack Lead - MEAN/MERN",
+    "company": "VOLANSYS (An ACL Digital Company)",
+    "location": "Ahmedabad, Gujarat, India",
+    "job_link": "https://in.linkedin.com/jobs/view/full-stack-lead-mean-mern-at-volansys-an-acl-digital-company-4107798988?position=8&pageNum=57&refId=SxTEy%2FInGhbaiR4mugnjlg%3D%3D&trackingId=fg2Ey1UlQkfUM8AHGNLPng%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://www.linkedin.com/company/volansys",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQH9P1uLLCsxxw/company-logo_100_100/company-logo_100_100/0/1707303017383/volansys_logo?e=2147483647&v=beta&t=qgv4jp1rbFIujdMqaJLxsOOzAwpM69I2Iivc3z-8zEo",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:56:40.740Z"
+    },
+    "min_exp": 8,
+    "max_exp": 10,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4106594242",
+    "title": "Lead Quality Assurance Tester",
+    "company": "SHRIRAM GENERAL INSURANCE CO. LTD.",
+    "location": "India",
+    "job_link": "https://in.linkedin.com/jobs/view/lead-quality-assurance-tester-at-shriram-general-insurance-co-ltd-4106594242?position=5&pageNum=2&refId=20cI1bd7vyA9my685BWTiQ%3D%3D&trackingId=Zb56daMHZw8HEQU%2FpOXx%2Bw%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://in.linkedin.com/company/shriramgeneralinsurance",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQH6liUJ9a0cbA/company-logo_100_100/company-logo_100_100/0/1712737931240/shriramgeneralinsurance_logo?e=2147483647&v=beta&t=2l8g31JaJA6QL-IKbusKyRXgOyv1ooGS5zMdEF9nTZ4",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:55:26.335Z"
+    },
+    "min_exp": 5,
+    "max_exp": 10,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4108103105",
+    "title": "QA- Manhattan Active Omni",
+    "company": "KHEY DiGiT",
+    "location": "Hyderabad, Telangana, India",
+    "job_link": "https://in.linkedin.com/jobs/view/qa-manhattan-active-omni-at-khey-digit-4108103105?position=8&pageNum=17&refId=jA83qZtUuHcn15Zy6Fy8LQ%3D%3D&trackingId=pLvpzTTGCWBCY7VUsqJSbw%3D%3D",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://in.linkedin.com/company/kheydigit-key-to-digital-solutions",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQFUUViYKlwCUw/company-logo_100_100/company-logo_100_100/0/1732877810630/kheydigit_key_to_digital_solutions_logo?e=2147483647&v=beta&t=8xbKt68vfJTKOdOBjGIEj1PTzwahmi1oVZnfGP68Gls",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:53:02.499Z"
+    },
+    "min_exp": 6,
+    "max_exp": 8,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4108103341",
+    "title": "MS Dynamics Testing Engineer",
+    "company": "Prontoex Consulting Services Pvt Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "job_link": "https://in.linkedin.com/jobs/view/ms-dynamics-testing-engineer-at-prontoex-consulting-services-pvt-ltd-4108103341?position=7&pageNum=7&refId=BAZVm1gFf08F4%2FRyg6Sw%2BQ%3D%3D&trackingId=tyfqeG0mkyifVcF%2FPRZ%2BYA%3D%3D",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://www.linkedin.com/company/prontoex-consulting-services-pvt-ltd",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQEJNREgRLPLbw/company-logo_100_100/company-logo_100_100/0/1718521871043?e=2147483647&v=beta&t=HSv2Z6Jd8wy0Hb44pBEgYaORd0tibGNAGtiZatU3qeM",
+    "postedDateTime": {
+      "$date": "2024-12-23T06:52:25.233Z"
+    },
+    "min_exp": 5,
+    "max_exp": 7,
+    "country": "India",
+    "companytype": "medium"
+  }
+]
