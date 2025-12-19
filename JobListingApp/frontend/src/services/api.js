@@ -9,12 +9,13 @@ export const fetchJobs = async () => {
 
 export const searchJobsByLocation = async (location) => {
   const res = await fetch(
-    `${API_URL}/jobs/search?location=${encodeURIComponent(location)}`
+    `${API_URL}api/jobs/search?location=${encodeURIComponent(location)}`
   );
   if (!res.ok) throw new Error("Failed to search jobs");
   const data = await res.json();
   return data.jobs;
 };
+
 
 
 
